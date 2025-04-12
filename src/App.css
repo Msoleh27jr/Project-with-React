@@ -248,6 +248,7 @@ h1 {
 }
 .sixthSection {
   max-width: 1900px;
+  margin: auto;
   background-color: rgba(209, 244, 249, 1);
   height: 600px;
   margin-top: 100px;
@@ -282,6 +283,7 @@ footer {
   max-width: 1900px;
   height: 700px;
   background-color: rgba(44, 53, 62, 1);
+  margin: auto;
 }
 .footer {
   max-width: 1600px;
